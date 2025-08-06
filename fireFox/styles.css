@@ -1,0 +1,10 @@
+.blur-chat-item {
+  filter: blur(8px);
+  opacity: 0.6;
+}
+
+.blur-chat-item:hover {
+  filter: blur(0px);
+  opacity: 1;
+  background-color: rgba(255, 255, 255, 0.05); /* Subtle hover glow */
+}
