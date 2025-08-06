@@ -21,5 +21,3 @@ A minimal browser extension to blur individual chats in the ChatGPT sidebar. Rev
 2. Click **This Firefox** → **Load Temporary Add-on**
 3. Select the `manifest.json` inside `firefox/`
 
-To publish on Firefox Add-ons (AMO), upload the `firefox/` folder as a ZIP.
-
