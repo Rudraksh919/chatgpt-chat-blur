@@ -23,5 +23,3 @@ A minimal browser extension to blur individual chats in the ChatGPT sidebar. Rev
 
 To publish on Firefox Add-ons (AMO), upload the `firefox/` folder as a ZIP.
 
-## License
-MIT
